@@ -1,0 +1,1 @@
+//// Decompiled by Jadx - 1014ms//package lu.die.fozacompatibility;public interface IProcessCallback {    void onHostProcess();    void onStubProcess();}

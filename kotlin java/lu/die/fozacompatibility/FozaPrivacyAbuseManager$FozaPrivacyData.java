@@ -1,0 +1,1 @@
+//// Decompiled by Jadx - 748ms//package lu.die.fozacompatibility;public class FozaPrivacyAbuseManager$FozaPrivacyData {    public String applicationPackage = "";    public String privacyAbuseType = "";    public String privacyAbuseContent = "";    public long eventOccurredTime = 0;}
